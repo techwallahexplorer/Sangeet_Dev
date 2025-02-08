@@ -1,6 +1,6 @@
-# Welcome to Jagjeet's Portfolio Website 👋
+# Welcome to Sangeet Website 👋
 
-A visually appealing and interactive portfolio website created by Jagjeet Singh.
+A visually appealing and interactive project created by Jagjeet Singh.
 
 ## Table of Contents
 
@@ -11,9 +11,7 @@ A visually appealing and interactive portfolio website created by Jagjeet Singh.
 - [Contact](#contact)
 
 ## About
-
-Jagjeet's Portfolio Website is a showcase of Jagjeet Singh's skills, services, and projects. It provides visitors with an overview of Jagjeet's background, expertise, and contact information.
-
+Music Website with personalised recommendation system.
 ## Services
 
 - **Web Design**: Crafting stunning and user-friendly web designs tailored to your needs.
@@ -47,7 +45,6 @@ Built a convolutional neural network (CNN) model to classify images of cats and 
 ## Contact
 
 - **Name**: Jagjeet Singh
-- **Address**: Greater Noida, UP
 - **Email**: urjagjeetsingh@gmail.com
 
 ---
