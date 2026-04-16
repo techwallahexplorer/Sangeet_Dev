@@ -23,6 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-# Exclude Readme and Walkthrough
-[Rr][Ee][Aa][Dd][Mm][Ee].md
-[Ww]alkthrough*.md
+
